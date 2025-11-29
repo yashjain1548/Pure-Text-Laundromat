@@ -1,0 +1,5 @@
+{
+  "name": "Pure Text Laundromat",
+  "description": "A high-efficiency tool to launder text from PDFs and legacy sites. Features smart de-breaking, formatting stripping, and AI-powered grammar polishing.",
+  "requestFramePermissions": []
+}
